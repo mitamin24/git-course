@@ -1,2 +1,3 @@
 hii there this is my first git project
 this file is created in order to learn git 
+added new line
