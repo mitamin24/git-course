@@ -1,1 +1,2 @@
 this file is created in order to understand the concept of branches in git 
+fixed anothe bug
